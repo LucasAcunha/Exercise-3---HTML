@@ -99,3 +99,11 @@ p {
 
 }
 
+.main img:hover {
+
+    opacity: 0.8;
+    border-radius: 10%;
+    transition: 1.0s ease-in-out;
+
+}
+
